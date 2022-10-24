@@ -1,0 +1,81 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=5548984172577
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=5548984172577
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=5548999447900
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=5548999447900
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://imperialautomoveis.com/
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://search.google.com/local/writereview?placeid=ChIJG4jydMZJJ5URuuk1YRAYIzg
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://search.google.com/local/writereview?placeid=ChIJlS1eryk2J5URQZ4VZ6mfxKw
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/TECSOMM
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/lojaimperialautomoveis
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Imperial+Autom%C3%B3veis+-+Compra+de+Ve%C3%ADculos,+Venda+de+Carros,+Troca,+e+Financiamento+de+Ve%C3%ADculos/@-27.5936073,-48.6057407,17z/data=!4m5!3m4!1s0x95273629af5e2d95:0xacc49fa967159e41!8m2!3d-27.593607!4d-48.6057341
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Tec+Som+Automotivo/@-27.5542285,-48.6219732,15z/data=!4m5!3m4!1s0x0:0x382318106135e9ba!8m2!3d-27.5542285!4d-48.6219732
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/lojaimperialautomoveis/
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/tecsomautomotivo/
+
+## Media
+
+### Audio
+audio_18D5258F_0A7F_B715_4192_1BAAD6E63130.path = null
+audio_18ED462C_0A7F_B51A_4178_ACF5B58D9D78.path = null
+audiores_192D29A4_0A7F_9F0B_4196_CB473FD5B8E8.mp3Url = media/audio_18D5258F_0A7F_B715_4192_1BAAD6E63130_pt.mp3
+audiores_192D29A4_0A7F_9F0B_4196_CB473FD5B8E8.oggUrl = media/audio_18D5258F_0A7F_B715_4192_1BAAD6E63130_pt.ogg
+audiores_19D22BB7_0A7F_F376_4197_D4A4623571B9.mp3Url = media/audio_18ED462C_0A7F_B51A_4178_ACF5B58D9D78_pt.mp3
+audiores_19D22BB7_0A7F_F376_4197_D4A4623571B9.oggUrl = media/audio_18ED462C_0A7F_B51A_4178_ACF5B58D9D78_pt.ogg
+
+### Title
+panorama_1FE8F94F_0A04_BF15_417E_D792AD13C759.label = 1 top-DeNoiseAI-standard
+panorama_0D6F952B_069A_2526_4188_372835B847F9.label = 2-DeNoiseAI-standard
+panorama_0D6CADA8_069A_2522_415C_F3AA0CD295F8.label = 3-DeNoiseAI-standard
+panorama_0D6C5578_069A_6522_4197_00E000B16A61.label = 4-DeNoiseAI-standard
+panorama_145A1C11_06B6_2AE5_4195_16A0E0191BB6.label = 5-DeNoiseAI-standard
+panorama_0D6CA4DA_069A_7B67_4196_D3889A74F481.label = CÉU-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = FALE CONOSCO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = FALE CONOSCO
+
+### Image
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_7E419219_7403_925D_41AB_E7237CB71057.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_7E419219_7403_925D_41AB_E7237CB71057.url = skin/Image_7E419219_7403_925D_41AB_E7237CB71057_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual em Nossa Loja
+
+### Title
+tour.name = Tec Som Automotivo
